@@ -4,27 +4,7 @@
     <projectFile>BigO.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72dddddf-c062-4d1a-a09f-c5d76ed4fe0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BigO/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BigO/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BigO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/BigO.ConstantBigO-20220911-095848.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/BigO.LinearBigO-20220910-101434.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/BigO.SquareBigO-20220910-124526.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/BigO.SquareBigO-20220910-124926.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/BigO.ConstantBigO-report-default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/BigO.LinearBigO-report-default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/BigO.SquareBigO-report-default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BigOSamples.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstantBigO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FakeData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearBigO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuadraticBigO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BigO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BigO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigO.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BigO.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="72dddddf-c062-4d1a-a09f-c5d76ed4fe0a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,8 +71,16 @@
       <workItem from="1662712452078" duration="4945000" />
       <workItem from="1662719720281" duration="9071000" />
       <workItem from="1662797362640" duration="225000" />
-      <workItem from="1662797607972" duration="6652000" />
+      <workItem from="1662797607972" duration="6880000" />
     </task>
+    <task id="LOCAL-00001" summary="BigO samples and rules">
+      <created>1662891856241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662891856241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +102,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="BigO samples and rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="BigO samples and rules" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
